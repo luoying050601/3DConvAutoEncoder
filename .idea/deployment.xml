@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="laplace" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="laplace">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Storage/ying/project/3DAutoEncoderProj" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ying@127.0.0.1:6006">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Storage/ying/project/3DAutoEncoderProj" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

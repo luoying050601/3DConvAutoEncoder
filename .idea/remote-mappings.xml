@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@04252a44-a990-434f-ba57-fcad4957265d" />
+        <remote-mappings server-id="python@sftp://ying@192.168.110.7:22/usr/bin/python3" />
+        <remote-mappings server-id="python@sftp://root@localhost:6001/opt/conda/bin/python3" />
+        <remote-mappings server-id="python@sftp://ying@127.0.0.1:6004/usr/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/Storage/ying/project/3DAutoEncoderProj" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://ying@127.0.0.1:6016/usr/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/Storage/ying/project/3DAutoEncoderProj" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
